@@ -8,7 +8,7 @@ function App() {
       <Navbar title = 'React Core' aboutTxt = 'About us' />
       {/* <Navbar aboutTxt = 'About us'/> */}
       <div className="container my-3">
-      <TextForm Heading = 'Enter Heading' TextTitle = 'Enter Text Title'/>
+      {/* <TextForm Heading = 'Enter Heading' TextTitle = 'Enter Text Title'/> */}
       </div>
     </>
   );
